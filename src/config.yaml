@@ -1,0 +1,16 @@
+num_scenarios: 10
+length: 30
+
+tasks:
+  - task:
+      person1_point: "A math professor who strongly believes Fermat did not have a concise proof for his last theorem"
+      person2_point: "A math professor who strongly believes Fermat did have a concise proof for his last theorem"
+  - task:
+      person1_point: "A person who strongly prefers dogs over cats"
+      person2_point: "A person who strongly prefers cats over dogs"
+  - task:
+      person1_point: "A person who strongly believes in the importance of free speech"
+      person2_point: "A person who strongly believes in the importance of censorship"
+  - task: 
+      person1_point: "A student who believes it is better to do a startup than a job at FAANG"
+      person2_point: "A senior software engineer at google who believes in FAANG supremacy"
